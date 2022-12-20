@@ -18,27 +18,27 @@
 
 ## <img src="./next/public/static/readme/team.svg" height="25px"> **바디토리 멤버**
 
-<table>
+<table align="center">
   <tr>
-    <td align="center"><a href="https://github.com/chspower1"><img src="./next/public/static/readme/team/hosung.gif" width="100px;" alt="호성"/><br /><sub><b>조호성</b></sub></a><br />
+    <td><a href="https://github.com/chspower1"><img src="https://imagedelivery.net/AbuMCvvnFZBtmCKKJV_e6Q/92b3dcff-4e2b-4065-3f4b-5aaebe9f3e00/avatar" width="100px" alt="호성"/><br /><sub><b>조호성</b></sub></a><br />
     <img src="https://img.shields.io/badge/FrontEnd-386ED7?style=flat-square&logoColor=white"/>
     <img src="https://img.shields.io/badge/BackEnd-EA5E5E?style=flat-square&logoColor=white"/>
     <img src="https://img.shields.io/badge/Motion-4698A4?style=flat-square&logoColor=white"/>
     </td>
-    <td align="center"><a href="https://github.com/hihisohi"><img src="./next/public/static/readme/team/sohi.gif" width="100px;" alt="소희"/><br /><sub><b>정소희</b></sub></a><br />
+    <td><a href="https://github.com/hihisohi"><img src="https://imagedelivery.net/AbuMCvvnFZBtmCKKJV_e6Q/e52b4fc3-edf8-4425-ba37-adaa47684300/avatar" width="100px" alt="소희"/><br /><sub><b>정소희</b></sub></a><br />
     <img src="https://img.shields.io/badge/FrontEnd-386ED7?style=flat-square&logoColor=white"/>
     <img src="https://img.shields.io/badge/AI-63BA71?style=flat-square&logoColor=white"/>
     <img src="https://img.shields.io/badge/PM-BE78BF?style=flat-square&logoColor=white"/>
     </td>
-    <td align="center"><a href="https://github.com/KimKW1007"><img src="./next/public/static/readme/team/won.gif" width="100px;" alt="경원"/><br /><sub><b>김경원</b></sub></a><br />
+    <td><a href="https://github.com/KimKW1007"><img src="https://imagedelivery.net/AbuMCvvnFZBtmCKKJV_e6Q/f1544a6d-b31a-4cff-72c6-193ab9b79f00/avatar" width="100px" alt="경원"/><br /><sub><b>김경원</b></sub></a><br />
     <img src="https://img.shields.io/badge/FrontEnd-386ED7?style=flat-square&logoColor=white"/>
     <img src="https://img.shields.io/badge/BackEnd-EA5E5E?style=flat-square&logoColor=white"/>
     </td>
-    <td align="center"><a href="https://github.com/Ryong-E"><img src="./next/public/static/readme/team/ryong.gif" width="100px;" alt="호성"/><br /><sub><b>한동룡</b></sub></a><br />
+    <td><a href="https://github.com/Ryong-E"><img src="https://imagedelivery.net/AbuMCvvnFZBtmCKKJV_e6Q/1654f47d-c0a3-4e0f-858d-f6d71c106d00/avatar" width="100px" alt="동룡"/><br /><sub><b>한동룡</b></sub></a><br />
     <img src="https://img.shields.io/badge/FrontEnd-386ED7?style=flat-square&logoColor=white"/>
     <img src="https://img.shields.io/badge/BackEnd-EA5E5E?style=flat-square&logoColor=white"/>
     </td>
-    <td align="center"><a href="https://github.com/Peelsob4d"><img src="./next/public/static/readme/team/hyun.gif" width="100px;" alt="호성"/><br /><sub><b>오다현</b></sub></a><br />
+    <td><a href="https://github.com/Peelsob4d"><img src="https://imagedelivery.net/AbuMCvvnFZBtmCKKJV_e6Q/ecf80d8d-1c7a-4ffb-28b5-c8ae08605700/avatar" width="100px" alt="다현"/><br /><sub><b>오다현</b></sub></a><br />
     <img src="https://img.shields.io/badge/FrontEnd-386ED7?style=flat-square&logoColor=white"/>
     <img src="https://img.shields.io/badge/AI-63BA71?style=flat-square&logoColor=white"/>
     <img src="https://img.shields.io/badge/DevOps-B0A85A?style=flat-square&logoColor=white"/>
@@ -148,9 +148,10 @@
 ## <img src="./next/public/static/readme/skills.svg" width="23px"/> 기술 스택
 
 ### **Common**
-
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
+  <div>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
+  </div>
   <details>
   <summary>
   공통 기술 스택 자세히 보기
@@ -192,14 +193,14 @@
 <br/>
 
 ### **Front-End**
-
+<div>
   <img src="https://img.shields.io/badge/Recoil-black?style=flat-square&logo=Recoil&logoColor=white"/>
   <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=ReactQuery&logoColor=white"/>
   <img src="https://img.shields.io/badge/React Hook Form-EC5990?style=flat-square&logo=ReactHookForm&logoColor=white"/>
  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white"/>
   <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
    <img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=Framer&logoColor=white"/>
-
+</div>
    <details>
      <summary>
      Front-End 기술 스택 자세히 보기
@@ -274,11 +275,12 @@ isLoading,isFetching,isError,onSuccess,onSettled 등의 옵션으로 간편하�
 <br/>
 
 ### **Back-End**
-
+<div>
    <img src="https://img.shields.io/badge/Flask-555555?style=flat-square&logo=Flask&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
    <img src="https://img.shields.io/badge/Iron Session-DB7093?style=flat-square&logoColor=white"/>
    <img src="https://img.shields.io/badge/NodeMailer-black?style=flat-square&logo=Recoil&logoColor=white"/>
+   </div>
    <details>
    <summary>
    Back-End 기술 스택 자세히 보기
@@ -336,9 +338,10 @@ Serverless환경에서의 회원인증
   <br/>
 
 ### **Styled**
-
+<div>
   <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
   <img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=Framer&logoColor=white"/>
+</div>
 <details>
    <summary>
    Style 기술 스택 자세히 보기
@@ -400,10 +403,11 @@ Serverless환경에서의 회원인증
   <!-- 백엔드 -->
 
 ### **DataBase**
-
+<div>
    <img src="https://img.shields.io/badge/Planet Scale-000000?style=flat-square&logo=PlanetScale&logoColor=white"/>
     <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white"/>
     <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=white"/>
+    </div>
     <details>
     <summary>
     DB 기술 스택 자세히 보기
@@ -494,11 +498,12 @@ Typescript와의 호환
      <br/>
 
 ### **CI/CD**
-
+<div>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitLab Runner-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+</div>
 <details>
 <summary>
 CI/CD 기술 스택 자세히 보기
@@ -533,7 +538,7 @@ CI/CD 기술 스택 자세히 보기
 
 <details>
   <summary>
-  인공지능
+인공지능
   </summary>
 
 - 복잡한 레이어 구성 절차 없이 인자값들을 통해 쉽게 원하는 방향으로 학습시킬 수 있어서 채택했습니다
