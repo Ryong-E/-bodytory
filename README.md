@@ -5,8 +5,7 @@
 <img src="./next/public/bodytory_banner.png" width="400px" >
 </p>
 <p align="center">
-<a href="https://kdt-ai5-team01.elicecoding.com/">바디토리 체험하기!</a>
-현재 배포가 중단되었습니다
+<a href="https://bodytory.site/">바디토리 체험하기!</a>
 </p>
 <p align="center">
 <b>바디토리</b>는 <b>전국 모든 병원들과 연결되있다는 가정</b>하에<br/>     
