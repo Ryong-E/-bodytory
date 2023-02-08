@@ -1,4 +1,5 @@
 # BODYTORY
+<img width="300" alt="Screen Shot 2023-02-08 at 22 47 15" src="https://user-images.githubusercontent.com/96985256/217547753-060c1796-beb4-48bf-bfa9-fc47e2ee12ff.png">
 
 <div align='center'>
 <p align="center">
