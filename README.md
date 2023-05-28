@@ -6,9 +6,6 @@
 <img src="./next/public/bodytory_banner.png" width="400px" >
 </p>
 <p align="center">
-<a href="https://bodytory.site/">바디토리 체험하기!</a>
-</p>
-<p align="center">
 <b>바디토리</b>는 <b>전국 모든 병원들과 연결되있다는 가정</b>하에<br/>     
 국민들의 <b>사회권 개선</b>과 <b>국민건강 증진을 희망하는 바람</b>에서 만들어진<br/>
 <b>가상의 프로젝트</b>입니다.<br/>
